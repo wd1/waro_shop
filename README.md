@@ -1,9 +1,3 @@
-# Waroong!
-
-Waroong is an open-source e-commerce solution based on Ruby on Rails 7.
-
-[![Screenshot](https://raw.githubusercontent.com/omkz/waroong/master/public/Screenshot.png)](https://www.youtube.com/watch?v=4hOGtcj1WBE)
-
 ## Tech Stack
 
 - Ruby 3.x
@@ -32,8 +26,8 @@ Before you get started, the following needs to be installed:
 1. Get the code. Clone this git repository:
 
   ```bash
-  git clone git://github.com/wd1/war_shop.git
-  cd war_shop
+  git clone git://github.com/wd1/waro_shop.git
+  cd waro_shop
   ```
 
 2. Install the required gems by running the following command in the project root directory:
